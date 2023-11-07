@@ -56,5 +56,6 @@ public class BrickGame {
 			numberOfTestCases--;
 			caseNum++;
 		}
+System.out.println(numberOfTestCases);
 	}
 }
